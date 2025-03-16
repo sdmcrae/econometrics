@@ -1,0 +1,144 @@
+country_name,country_id
+Finland,FIN
+Denmark,DNK
+Iceland,ISL
+Sweden,SWE
+Israel,ISR
+Netherlands,NLD
+Norway,NOR
+Luxembourg,LUX
+Switzerland,CHE
+Australia,AUS
+New Zealand,NZL
+Costa Rica,CRI
+Kuwait,KWT
+Austria,AUT
+Canada,CAN
+Belgium,BEL
+Ireland,IRL
+Czechia,CZE
+Lithuania,LTU
+United Kingdom,GBR
+Slovenia,SVN
+United Arab Emirates,ARE
+United States,USA
+Germany,DEU
+Mexico,MEX
+Uruguay,URY
+France,FRA
+Saudi Arabia,SAU
+Kosovo,XKX
+Singapore,SGP
+Taiwan Province of China,TWN
+Romania,ROU
+El Salvador,SLV
+Estonia,EST
+Poland,POL
+Spain,ESP
+Serbia,SRB
+Chile,CHL
+Panama,PAN
+Malta,MLT
+Italy,ITA
+Guatemala,GTM
+Nicaragua,NIC
+Brazil,BRA
+Slovakia,SVK
+Latvia,LVA
+Uzbekistan,UZB
+Argentina,ARG
+Kazakhstan,KAZ
+Cyprus,CYP
+Japan,JPN
+South Korea,KOR
+Philippines,PHL
+Vietnam,VNM
+Portugal,PRT
+Hungary,HUN
+Paraguay,PRY
+Thailand,THA
+Malaysia,MYS
+China,CHN
+Honduras,HND
+Bahrain,BHR
+Croatia,HRV
+Greece,GRC
+Bosnia and Herzegovina,BIH
+Libya,LBY
+Jamaica,JAM
+Peru,PER
+Dominican Republic,DOM
+Mauritius,MUS
+Moldova,MDA
+Russia,RUS
+Bolivia,BOL
+Ecuador,ECU
+Kyrgyzstan,KGZ
+Montenegro,MNE
+Mongolia,MNG
+Colombia,COL
+Venezuela,VEN
+Indonesia,IDN
+Bulgaria,BGR
+Armenia,ARM
+South Africa,ZAF
+North Macedonia,MKD
+Algeria,DZA
+Hong Kong S.A.R. of China,HKG
+Albania,ALB
+Tajikistan,TJK
+Congo (Brazzaville),COG
+Mozambique,MOZ
+Georgia,GEO
+Iraq,IRQ
+Nepal,NPL
+Laos,LAO
+Gabon,GAB
+Ivory Coast,CIV
+Guinea,GIN
+Turkiye,TUR
+Senegal,SEN
+Iran,IRN
+Azerbaijan,AZE
+Nigeria,NGA
+State of Palestine,PSE
+Cameroon,CMR
+Ukraine,UKR
+Namibia,NAM
+Morocco,MAR
+Pakistan,PAK
+Niger,NER
+Burkina Faso,BFA
+Mauritania,MRT
+Gambia,GMB
+Chad,TCD
+Kenya,KEN
+Tunisia,TUN
+Benin,BEN
+Uganda,UGA
+Myanmar,MMR
+Cambodia,KHM
+Ghana,GHA
+Liberia,LBR
+Mali,MLI
+Madagascar,MDG
+Togo,TGO
+Jordan,JOR
+India,IND
+Egypt,EGY
+Sri Lanka,LKA
+Bangladesh,BGD
+Ethiopia,ETH
+Tanzania,TZA
+Comoros,COM
+Yemen,YEM
+Zambia,ZMB
+Eswatini,SWZ
+Malawi,MWI
+Botswana,BWA
+Zimbabwe,ZWE
+Congo (Kinshasa),COD
+Sierra Leone,SLE
+Lesotho,LSO
+Lebanon,LBN
+Afghanistan,AFG
